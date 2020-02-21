@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3005ee1e-7bf5-4d96-8ee3-d8f8938f5713" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/explore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hyperpixel4/ui-portrait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hyperpixel4/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/keyboard/98-keyboard.rules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/keyboard/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/keyboard/install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/keyboard/keyboard.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/keyboard/multikey" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/paint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/piano.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/pong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ships.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39148__jobro__piano-ff-001.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39149__jobro__piano-ff-002.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39150__jobro__piano-ff-003.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39151__jobro__piano-ff-004.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39152__jobro__piano-ff-005.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39153__jobro__piano-ff-006.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39154__jobro__piano-ff-007.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39155__jobro__piano-ff-008.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39156__jobro__piano-ff-009.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39157__jobro__piano-ff-010.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39158__jobro__piano-ff-011.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39159__jobro__piano-ff-012.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39160__jobro__piano-ff-013.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39161__jobro__piano-ff-014.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39162__jobro__piano-ff-015.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39163__jobro__piano-ff-016.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39164__jobro__piano-ff-017.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39165__jobro__piano-ff-018.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39166__jobro__piano-ff-019.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39167__jobro__piano-ff-020.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39168__jobro__piano-ff-021.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39169__jobro__piano-ff-022.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39170__jobro__piano-ff-023.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39171__jobro__piano-ff-024.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39172__jobro__piano-ff-025.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39173__jobro__piano-ff-026.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39174__jobro__piano-ff-027.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39175__jobro__piano-ff-028.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39176__jobro__piano-ff-029.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39177__jobro__piano-ff-030.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39178__jobro__piano-ff-031.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39179__jobro__piano-ff-032.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39180__jobro__piano-ff-033.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39181__jobro__piano-ff-034.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39182__jobro__piano-ff-035.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39183__jobro__piano-ff-036.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39184__jobro__piano-ff-037.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39185__jobro__piano-ff-038.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39186__jobro__piano-ff-039.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39187__jobro__piano-ff-040.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39188__jobro__piano-ff-041.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39189__jobro__piano-ff-042.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39190__jobro__piano-ff-043.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39191__jobro__piano-ff-044.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39193__jobro__piano-ff-045.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39194__jobro__piano-ff-046.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39195__jobro__piano-ff-047.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39196__jobro__piano-ff-048.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39197__jobro__piano-ff-049.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39198__jobro__piano-ff-050.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39199__jobro__piano-ff-051.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39200__jobro__piano-ff-052.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39201__jobro__piano-ff-053.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39202__jobro__piano-ff-054.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39203__jobro__piano-ff-055.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39204__jobro__piano-ff-056.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39205__jobro__piano-ff-057.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39206__jobro__piano-ff-058.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39207__jobro__piano-ff-059.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39208__jobro__piano-ff-060.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/39209__jobro__piano-ff-061.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sounds/piano/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/tutorial/01_one_button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/gui/MANIFEST.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y6gYh6pGcQSy6QyupdKwi9FsYy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3005ee1e-7bf5-4d96-8ee3-d8f8938f5713" name="Default Changelist" comment="" />
+      <created>1582268506467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582268506467</updated>
+      <workItem from="1582268512364" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582268710710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582268710710" />
+  </component>
+</project>
